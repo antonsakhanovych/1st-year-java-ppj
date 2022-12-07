@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem1 {
     public static void main(String[] args) {
         double[] arr = new double[10];

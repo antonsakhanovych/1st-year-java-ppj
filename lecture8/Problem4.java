@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 import java.time.Instant;
 import java.util.Date;
 

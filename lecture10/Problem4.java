@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem4 {
     public static void fillFunction(int[] arr, int max, int min){
         for (int i = 0; i < arr.length; i++) {

@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem4 {
     static boolean checkPali(int[] arr, boolean paliCheck, int step){
         int lastInd = arr.length - 1 - step;

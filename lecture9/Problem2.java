@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem2 {
     public static void main(String[] args) {
         double result = 0;

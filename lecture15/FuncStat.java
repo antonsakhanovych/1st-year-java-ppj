@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class FuncStat {
     public static int fiboR(int n){
         if (n <= 1){

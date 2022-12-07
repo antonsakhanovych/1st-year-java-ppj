@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 import java.util.Scanner;
 
 public class Prob3 {

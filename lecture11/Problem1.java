@@ -1,5 +1,6 @@
-import java.lang.reflect.Array;
-import java.sql.SQLOutput;
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 import java.util.Arrays;
 
 public class Problem1 {

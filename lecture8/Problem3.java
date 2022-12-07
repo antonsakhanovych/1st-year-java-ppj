@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem3 {
     public static void main(String[] args) {
         boolean test = true;

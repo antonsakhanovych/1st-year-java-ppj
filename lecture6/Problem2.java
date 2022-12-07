@@ -1,4 +1,6 @@
-import java.sql.SQLOutput;
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 import java.util.Scanner;
 
 public class Problem2 {

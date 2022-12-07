@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem5 {
     public static void main(String[] args) {
         char sym1 = 'x';

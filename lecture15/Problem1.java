@@ -1,3 +1,6 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
+
 public class Problem1 {
 
     static int count(int[] arr, int from, int what) {

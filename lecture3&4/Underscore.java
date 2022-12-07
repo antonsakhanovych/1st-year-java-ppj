@@ -1,3 +1,5 @@
+// Author: Anton Sakanovych
+// ESKA: s26776
 
 public class Underscore {
     public static void main (String args[]){
